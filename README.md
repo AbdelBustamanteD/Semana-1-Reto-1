@@ -2,14 +2,15 @@
 Reto MASTER: Semana 1, Reto 1
 
 ## Principales partes de una computadora
-Case
-Placa madre
-CPU [Procesador]
-GPU [Tarjeta gráfica] (si no hay GPU integrada)
-RAM [Memoria]
-Dispositivo de almacenamiento (SSD, NVME SSD, HDD)
-Refrigeración (CPU, chasis)
-PSU [Fuente de alimentación]
+Case.
+Placa madre.
+CPU [Procesador].
+GPU [Tarjeta gráfica] (si no hay GPU integrada).
+RAM [Memoria].
+Dispositivo de almacenamiento (SSD, NVME SSD, HDD).
+Refrigeración (CPU, chasis).
+PSU [Fuente de alimentación].
+![](Imagenes/0.jpg)
 
 ## Computo en la nube
 
@@ -22,12 +23,16 @@ Creadas para usuarios profesionales: Valor inmediato directo, sin necesidad de u
 Adaptadas: Ofrecen resultados increíblemente relevantes y optimizados en tiempo real.
 Inteligentes:Procesan y obtienen estadísticas a partir de los datos de terceros de la web y ofrecen, en tiempo real, los mejores resultados totalmente individualizados.
 
+![](Imagenes/Sin-título-1.jpg)
+
+
 ## Modelo OSI
 
 Este estándar perseguía el ambicioso objetivo de conseguir interconectar sistema de procedencia distinta para que esto pudieran intercambiar información sin ningún tipo de impedimentos debido a los protocolos con los que estos operaban de forma propia según su fabricante.
 
 El modelo OSI está conformado por 7 capas o niveles de abstracción. Cada uno de estos niveles tendrá sus propias funciones para que en conjunto sean capaces de poder alcanzar su objetivo final. Precisamente esta separación en niveles hace posible la intercomunicación de protocolos distintos al concentrar funciones específicas en cada nivel de operación.
 
+![](Imagenes/modelo-OSI-1280x720.jpg)
 
 ## Front-end vs Back-end
 
@@ -41,6 +46,7 @@ Básicamente, cuando hablamos de "detrás de escena", es decir, el servidor y la
 
  Más directamente, el Desarrollador Front End es responsable de la interacción directa del usuario, por lo que se desarrolla cuidando el lado más visual de las aplicaciones, como el cuidado de los colores, botones, enlaces, menús y todo lo que vemos. en una página cuando estamos accediendo.
 
+![](Imagenes/CN-Let’s-Compare-Front-End-and-Back-End-Developers.jpg)
 
 ## Servicios Nube:
 IAAS: La infraestructura como servicio (IaaS) es una infraestructura informática inmediata que se aprovisiona y administra a través de Internet. Es uno de los cuatro tipos de servicios en la nube, junto el con software como servicio (SaaS), la plataforma como servicio (PaaS) y la tecnología sin servidor.
@@ -56,4 +62,7 @@ PaaS permite evitar el gasto y la complejidad que suponen la compra y la adminis
 El software como servicio (SaaS) permite a los usuarios conectarse a aplicaciones basadas en la nube a través de Internet y usarlas. Algunos ejemplos comunes son el correo electrónico, los calendarios y las herramientas ofimáticas (como Microsoft Office 365).
 
 SaaS ofrece una solución de software integral que se adquiere de un proveedor de servicios en la nube mediante un modelo de pago por uso. Usted alquila el uso de una aplicación para su organización y los usuarios se conectan a ella a través de Internet, normalmente con un explorador web. Toda la infraestructura subyacente, el middleware, el software y los datos de las aplicaciones se encuentran en el centro de datos del proveedor. El proveedor de servicios administra el hardware y el software y, con el contrato de servicio adecuado, garantizará también la disponibilidad y la seguridad de la aplicación y de sus datos. SaaS permite que una organización se ponga en marcha y pueda ejecutar aplicaciones con un costo inicial mínimo.
+
+
+![](Imagenes/modelos.png)
 
