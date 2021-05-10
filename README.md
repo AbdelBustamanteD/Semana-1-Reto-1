@@ -1,5 +1,9 @@
-# Semana-1-Reto-1
-Reto MASTER: Semana 1, Reto 1
+# Semana-1-Reto-1  
+Reto MASTER: Semana 1, Reto 1 09/05/2021
+
+Colaboradores:
+ Bustamante Domínguez Abdel
+ Hernández Luna Eduardo
 
 ## Principales partes de una computadora
 Case.
