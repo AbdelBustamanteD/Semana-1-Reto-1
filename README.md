@@ -11,7 +11,7 @@ Dispositivo de almacenamiento (SSD, NVME SSD, HDD)
 Refrigeración (CPU, chasis)
 PSU [Fuente de alimentación]
 
-## Principales partes de una computadora
+## Computo en la nube
 
 Es una solución de infraestructura como servicio que proporciona recursos informáticos a demanda y ampliables (máquinas virtuales con los recursos de almacenamiento y redes necesarios) en la nube pública.
 
